@@ -1,0 +1,28 @@
+[[CLASS]]
+arch = "aarch64"
+git-tree-sha1 = "d254b6115161fad3900cae8a83f812e400e6790a"
+os = "macos"
+
+    [[CLASS.download]]
+    sha256 = "724df67ecd7a38b97a54bae7dc0da5fe67d423edf91bc6ee66433591ffd4a2a2"
+    url = "https://github.com/np-lss/CLASS_jll.jl/releases/download/CLASS-v3.2.3+0/CLASS.v3.2.3.aarch64-apple-darwin.tar.gz"
+[[CLASS]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7e69b5c7d8bca41449c411af2a4bf1decea16986"
+libc = "glibc"
+os = "linux"
+
+    [[CLASS.download]]
+    sha256 = "050d5248583081b3ef612073cea91164d9ae35c96953e3a98693f5e420da360e"
+    url = "https://github.com/np-lss/CLASS_jll.jl/releases/download/CLASS-v3.2.3+0/CLASS.v3.2.3.x86_64-linux-gnu-cxx03.tar.gz"
+[[CLASS]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a7164aff38e05a8980f1a8c6cdb0d46ef2798a52"
+libc = "glibc"
+os = "linux"
+
+    [[CLASS.download]]
+    sha256 = "4919a99f6b4bf08465117bffaf2260b149a3887c22d1b5129f3fac59598be6a3"
+    url = "https://github.com/np-lss/CLASS_jll.jl/releases/download/CLASS-v3.2.3+0/CLASS.v3.2.3.x86_64-linux-gnu-cxx11.tar.gz"
